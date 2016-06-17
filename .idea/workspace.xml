@@ -30,6 +30,7 @@
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
                 <marker date="1466178862000" expanded="true" signature="351:521" placeholder="..." />
+                <marker date="1466178862000" expanded="true" signature="642:791" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,8 +39,8 @@
       <file leaf-file-name="bottom-list.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/scss/bottom-list.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+            <state relative-caret-position="352">
+              <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -48,18 +49,18 @@
       <file leaf-file-name="bottomList.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/bottomList.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#47#87#0" expanded="true" />
-                <marker date="1466186375000" expanded="true" signature="228:908" placeholder="..." />
-                <marker date="1466186375000" expanded="true" signature="295:893" placeholder="..." />
-                <marker date="1466186375000" expanded="true" signature="339:483" placeholder="..." />
-                <marker date="1466186375000" expanded="true" signature="388:461" placeholder="..." />
-                <marker date="1466186375000" expanded="true" signature="529:737" placeholder="..." />
-                <marker date="1466186375000" expanded="true" signature="785:874" placeholder="..." />
-                <marker date="1466186375000" expanded="true" signature="831:843" placeholder="..." />
+                <marker date="1466190672000" expanded="true" signature="228:908" placeholder="..." />
+                <marker date="1466190672000" expanded="true" signature="295:893" placeholder="..." />
+                <marker date="1466190672000" expanded="true" signature="339:483" placeholder="..." />
+                <marker date="1466190672000" expanded="true" signature="388:461" placeholder="..." />
+                <marker date="1466190672000" expanded="true" signature="529:737" placeholder="..." />
+                <marker date="1466190672000" expanded="true" signature="785:874" placeholder="..." />
+                <marker date="1466190672000" expanded="true" signature="831:843" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -77,6 +78,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="near-by.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/scss/near-by.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NearByBlocks.component.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NearByBlocks.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/NearByBlocks.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -118,24 +129,24 @@
       <file leaf-file-name="TopRanking.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/TopRanking.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+            <state relative-caret-position="324">
+              <caret line="67" column="15" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#47#87#0" expanded="true" />
-                <marker date="1466188191000" expanded="true" signature="281:2495" placeholder="..." />
-                <marker date="1466188191000" expanded="true" signature="332:2391" placeholder="..." />
-                <marker date="1466188191000" expanded="true" signature="548:730" placeholder="..." />
-                <marker date="1466188191000" expanded="true" signature="612:716" placeholder="..." />
-                <marker date="1466188191000" expanded="true" signature="789:1606" placeholder="..." />
-                <marker date="1466188191000" expanded="true" signature="888:1108" placeholder="..." />
-                <marker date="1466188191000" expanded="true" signature="970:1081" placeholder="..." />
-                <marker date="1466188191000" expanded="true" signature="1361:1583" placeholder="..." />
-                <marker date="1466188191000" expanded="true" signature="1444:1556" placeholder="..." />
-                <marker date="1466188191000" expanded="true" signature="1836:2351" placeholder="..." />
-                <marker date="1466188191000" expanded="true" signature="1914:2134" placeholder="..." />
-                <marker date="1466188191000" expanded="true" signature="2001:2107" placeholder="..." />
-                <marker date="1466188191000" expanded="true" signature="2224:2328" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="281:2587" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="332:2391" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="548:730" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="612:716" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="789:1606" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="888:1108" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="970:1081" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="1361:1583" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="1444:1556" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="1836:2351" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="1914:2134" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="2001:2107" placeholder="..." />
+                <marker date="1466190565000" expanded="true" signature="2224:2328" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -165,16 +176,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/dev/boot.ts" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/dev/services/getService.service.ts" />
         <option value="$PROJECT_DIR$/dev/app.component.ts" />
         <option value="$PROJECT_DIR$/dev/services/bottomList.component.ts" />
-        <option value="$PROJECT_DIR$/assets/scss/bottom-list.scss" />
-        <option value="$PROJECT_DIR$/dev/bottomList.component.ts" />
-        <option value="$PROJECT_DIR$/dev/TopRanking.component.ts" />
         <option value="$PROJECT_DIR$/assets/scss/ranking.scss" />
         <option value="$PROJECT_DIR$/assets/scss/near-by.scss" />
         <option value="$PROJECT_DIR$/dev/NearByBlocks.component.ts" />
+        <option value="$PROJECT_DIR$/dev/TopRanking.component.ts" />
+        <option value="$PROJECT_DIR$/dev/bottomList.component.ts" />
+        <option value="$PROJECT_DIR$/assets/scss/bottom-list.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -192,8 +203,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="263" />
-    <option name="y" value="53" />
+    <option name="x" value="282" />
+    <option name="y" value="227" />
     <option name="width" value="918" />
     <option name="height" value="738" />
   </component>
@@ -288,15 +299,15 @@
       <option name="presentableId" value="Default" />
       <updated>1466138861017</updated>
       <workItem from="1466138862263" duration="15201000" />
-      <workItem from="1466174125655" duration="12806000" />
+      <workItem from="1466174125655" duration="14915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28007000" />
+    <option name="totallyTimeSpent" value="30116000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="263" y="53" width="918" height="738" extended-state="0" />
+    <frame x="282" y="227" width="918" height="738" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -360,6 +371,7 @@
           <folding>
             <element signature="e#0#40#0" expanded="true" />
             <marker date="1466178862000" expanded="true" signature="351:521" placeholder="..." />
+            <marker date="1466178862000" expanded="true" signature="642:791" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -439,19 +451,19 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#47#87#0" expanded="true" />
-            <marker date="1466188191000" expanded="true" signature="281:2495" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="332:2391" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="548:730" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="612:716" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="789:1606" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="888:1108" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="970:1081" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="1361:1583" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="1444:1556" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="1836:2351" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="1914:2134" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="2001:2107" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="2224:2328" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="281:2587" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="332:2391" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="548:730" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="612:716" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="789:1606" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="888:1108" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="970:1081" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="1361:1583" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="1444:1556" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="1836:2351" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="1914:2134" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="2001:2107" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="2224:2328" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -497,14 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
@@ -512,75 +516,8 @@
           <folding>
             <element signature="e#0#40#0" expanded="true" />
             <marker date="1466178862000" expanded="true" signature="351:521" placeholder="..." />
+            <marker date="1466178862000" expanded="true" signature="642:791" placeholder="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/bottom-list.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/bottomList.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#47#87#0" expanded="true" />
-            <marker date="1466186375000" expanded="true" signature="228:908" placeholder="..." />
-            <marker date="1466186375000" expanded="true" signature="295:893" placeholder="..." />
-            <marker date="1466186375000" expanded="true" signature="339:483" placeholder="..." />
-            <marker date="1466186375000" expanded="true" signature="388:461" placeholder="..." />
-            <marker date="1466186375000" expanded="true" signature="529:737" placeholder="..." />
-            <marker date="1466186375000" expanded="true" signature="785:874" placeholder="..." />
-            <marker date="1466186375000" expanded="true" signature="831:843" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/services/getService.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#48#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/TopRanking.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#47#87#0" expanded="true" />
-            <marker date="1466188191000" expanded="true" signature="281:2495" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="332:2391" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="548:730" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="612:716" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="789:1606" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="888:1108" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="970:1081" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="1361:1583" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="1444:1556" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="1836:2351" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="1914:2134" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="2001:2107" placeholder="..." />
-            <marker date="1466188191000" expanded="true" signature="2224:2328" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/near-by.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -605,6 +542,82 @@
             <marker date="1466188585000" expanded="true" signature="580:596" placeholder="..." />
             <marker date="1466188585000" expanded="true" signature="597:656" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/TopRanking.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="67" column="15" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#47#87#0" expanded="true" />
+            <marker date="1466190565000" expanded="true" signature="281:2587" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="332:2391" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="548:730" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="612:716" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="789:1606" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="888:1108" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="970:1081" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="1361:1583" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="1444:1556" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="1836:2351" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="1914:2134" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="2001:2107" placeholder="..." />
+            <marker date="1466190565000" expanded="true" signature="2224:2328" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/bottomList.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#47#87#0" expanded="true" />
+            <marker date="1466190672000" expanded="true" signature="228:908" placeholder="..." />
+            <marker date="1466190672000" expanded="true" signature="295:893" placeholder="..." />
+            <marker date="1466190672000" expanded="true" signature="339:483" placeholder="..." />
+            <marker date="1466190672000" expanded="true" signature="388:461" placeholder="..." />
+            <marker date="1466190672000" expanded="true" signature="529:737" placeholder="..." />
+            <marker date="1466190672000" expanded="true" signature="785:874" placeholder="..." />
+            <marker date="1466190672000" expanded="true" signature="831:843" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/bottom-list.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/services/getService.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/near-by.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>

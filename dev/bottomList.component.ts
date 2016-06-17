@@ -25,21 +25,20 @@ import{GetService} from './services/getService.service';
         </div>
     `,
     styleUrls:['src/css/bottom-list.css'],
+    inputs:['restaurantCount','groceryCount','bankCount'],
 })
 
 export class BottomList {
-    restaurantCount:number;
-    groceryCount:number;
-    bankCount:number;
+    restaurantCount='';
+    groceryCount='';
+    bankCount='';
 
-    constructor(private gettingLength:GetService) {
-    };
 
     bottomLists = [{
         store: 'Restaurants',
         imageU: '../images/rest_black.png',
         count: this.restaurantCount,
-    },
+        },
         {
             store: 'Grocery Stores',
             imageU: '../images/groc_black.png',

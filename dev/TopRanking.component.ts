@@ -45,7 +45,7 @@ import {BottomList} from "./bottomList.component";
                     
             </div>
             <div class="left-block_caret"></div>
-            <bottom-list></bottom-list>
+            <bottom-list [restaurantCount]="restaurantCount" [groceryCount]="groceriesCount" [bankCount]="bankCount"></bottom-list>
         </div>
         
     `,
@@ -63,6 +63,9 @@ export class TopRanking{
     state: string;
     initial_value: number =0;
     list_length: number;
+    restaurantCount='';
+    groceriesCount='';
+    bankCount='';
 
     constructor(private gettingService: GetService){}
 
@@ -77,6 +80,9 @@ export class TopRanking{
                     this.address=data[this.type.name||this.initial.name].businesses[this.initial_value].location.display_address[0];
                     this.state=data[this.type.name||this.initial.name].businesses[this.initial_value].location.display_address[1];
                     this.list_length= data[this.type.name||this.initial.name].businesses.length;
+                    this.restaurantCount=data.restaurant.businesses.length;
+                    this.groceriesCount=data.grocers.businesses.length;
+                    this.bankCount=data.banks.businesses.length;
                 },
                 error=> console.error(error)
             )
