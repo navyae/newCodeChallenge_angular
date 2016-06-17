@@ -1,0 +1,67 @@
+.blist{
+
+  width:455px;
+  height: 290px;
+  //background-color: #00cc99;
+  position: relative;
+  top:-10px;
+  &_each{
+    width: inherit;;
+    height:70px;
+    border-bottom: 1px solid rgb(225, 225, 225);
+    border-left: 5px solid rgb(225, 225, 225);
+    &_img{
+      width:70px;
+      height:70px;
+      overflow: hidden;
+      float: left;
+      background-color: rgb(242, 242, 242);
+      &_ic{
+        width: 34px;
+        height: 32px;
+        position: relative;
+        top: 26%;
+        left: 26%;
+      }
+    }
+    &_t-box{
+      width: 200px;
+      height: 35px;
+      //background-color: #00cc99;
+      position: relative;
+      float: left;
+      top: 20%;
+      left: 4%;
+      &_1{
+        font-family: Lato;
+        color:  #000000;
+        font-size: 18px;/* Approximation due to font substitution */
+        font-weight: 400;
+        line-height: 24px;/* Approximation due to font substitution */
+        text-align: left;
+      }
+      &_2{
+        font-family: Lato;
+        color:  #000000;
+        font-size: 14px;/* Approximation due to font substitution */
+        font-weight: 400;
+        line-height: 18px;/* Approximation due to font substitution */
+        text-align: left;
+      }
+    }
+    &_see-all{
+      width: 100px;
+      height: 25px;
+      //background-color: #0c9;
+      float: right;
+      position: relative;
+      top: 37%;
+      right: 5%;
+      color: #cecece;
+      font-size: 18px;
+      font-weight: 900;
+      line-height: 27px;
+
+    }
+  }
+}

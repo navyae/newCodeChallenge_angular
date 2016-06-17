@@ -1,0 +1,207 @@
+.left-block{
+  border-width: 1px;
+  border-color: #cccccc;
+  border-style: solid;
+  background-color: #ffffff;
+  width: 455px;
+  height: 640px;
+  float: left;
+  top: 15px;
+  position: relative;
+  left: 15px;
+  &_top-rectangle{
+    width: inherit;
+    height: 356px;
+    background-color: #0000AA;
+    background-image: url("../images/Greytexture.png");
+
+    &_title{
+      width: 378px;
+      height: 18px;
+      font-family: Lat;
+      color: #ffffff;
+      font-size: 17px;/* Approximation due to font substitution */
+      font-weight: 900;
+      line-height: 46px;/* Approximation due to font substitution */
+      text-align: center;
+      left: 38px;
+      position: relative;
+      top: 19px;
+
+    }
+    &_map{
+      color: rgb(68, 178, 36);
+      font-size: 16px;/* Approximation due to font substitution */
+      font-weight: 400;
+      line-height: 46px;/* Approximation due to font substitution */
+      text-align: center;
+      position: relative;
+      right: 5%;
+    }
+    &_location{
+      width:117px;
+      height: 16px;
+      font-family: Lato;
+      color: #ffffff;
+      font-size: 16px;/* Approximation due to font substitution */
+      font-weight: 400;
+      line-height: 46px;/* Approximation due to font substitution */
+      text-align: center;
+      margin-top: 5%;
+      left: 36%;
+      position: relative;
+      }
+
+    &_img{
+      width:inherit;
+      height: 150px;
+      margin-top: 9%;
+
+      &_circle{
+        border-radius: 50%;
+        border: 3px solid #CCCCCC;
+        box-sizing: border-box;
+        background-color: #f2f2f2;
+        width: 150px;
+        height: 150px;
+        float: left;
+        position: relative;
+        left: 25%;
+        cursor: pointer;
+        overflow: hidden;
+
+        }
+
+      &_left-arc{
+        background-color: #000000;
+        width: 36px;
+        height: 80px;
+        float: left;
+        position: relative;
+        top: 35%;
+        border-bottom-right-radius: 80px;
+        border-top-right-radius: 80px;
+        cursor: pointer;
+        &:hover{
+          background-color: rgb(68, 178, 36);
+        }
+        &_arrow{
+          width: 30px;
+          height: 30px;
+          font-family: FontAwesome;
+          color: #ffffff;
+          font-size: 30px;/* Approximation due to font substitution */
+          font-weight: 400;
+          text-align: center;
+          top: 28%;
+          position: relative;
+          float: left;
+          //transform: scaleX(-1)
+          }
+        }
+      &_right-arc{
+        background-color: #000000;
+        width: 36px;
+        height: 80px;
+        float: right;
+        position: relative;
+        top: 35%;
+        border-top-left-radius: 80px;
+        border-bottom-left-radius: 80px;
+        cursor: pointer;
+        &:hover{
+          background-color: rgb(68, 178, 36);
+        }
+
+        &_arrow{
+          width: 30px;
+          height: 30px;
+          font-family: FontAwesome;
+          color: #ffffff;
+          font-size: 30px;/* Approximation due to font substitution */
+          font-weight: 400;
+          text-align: center;
+          top: 28%;
+          position: relative;
+          float: right;
+          //transform: scaleX(-1)
+          }
+
+        }
+
+      }
+    &_establishment{
+      font-family: Lato;
+      color: #ffffff;
+      font-size: 18px;/* Approximation due to font substitution */
+      font-weight: 900;
+      line-height: 24px;/* Approximation due to font substitution */
+      text-align: center;
+      margin-top: 3%;
+    }
+    &_est-loc{
+      font-family: Lato;
+      color: #ffffff;
+      font-size: 14px;/* Approximation due to font substitution */
+      font-weight: 400;
+      line-height: 24px;/* Approximation due to font substitution */
+      text-align: center;
+    }
+    &_stl-button{
+      border-radius: 5px;
+      background-color: rgb(68, 178, 36);
+      width: 180px;
+      height: 35px;
+      position: relative;
+      left: 30%;
+      top:1%;
+      //font-family: Lato;
+      color: #ffffff;
+      font-size: 15px;/* Approximation due to font substitution */
+      font-weight: 900;
+      line-height: 34px;/* Approximation due to font substitution */
+      text-align: center;
+      cursor: pointer;
+      &_scircle{
+        border-radius: 50%;
+        background-color: #000000;
+        width: 25px;
+        height: 25px;
+        float: left;
+        position: relative;
+        top: 14%;
+        left: 8%;
+        &_home{
+          width: 15px;
+          height: 13px;
+          color: #fff;
+          position: relative;
+          top: 16%;
+          left: 18%;
+
+          }
+        }
+      &_angle{
+        color: #ffffff;
+        font-size: 15px;/* Approximation due to font substitution */
+        font-weight: 400;
+        line-height: 28px;/* Approximation due to font substitution */
+        //text-align: right;
+        float: right;
+        position: relative;
+        top: 27%;
+        right: 11%;
+
+        }
+
+      }
+    }
+  &_caret{
+    width: 20px;
+    height: 10px;
+    background-image: url("../images/triangle.png");
+    position: relative;
+    left:47%;
+
+  }
+  }

@@ -1,0 +1,25 @@
+.nb-title{
+  background-color: #000000;
+  border-top:3px solid rgb(68, 178, 36);
+  width: 680px;
+  height: 45px;
+  &_side-bar{
+    background-color: #44b224;
+    width: 3px;
+    height: 13px;
+    left:10px;
+    top:16px;
+    position: relative;
+
+  }
+  &_text{
+    //font-family: Lato;
+    color: #ffffff;
+    font-size: 18px;/* Approximation due to font substitution */
+    font-weight: 900;
+    text-align: left;
+    left: 25px;
+    position: relative;
+    //display: block;
+  }
+}
